@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e2b36240c3b10be270f468d385e858a6f38d13f">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bdc24d1a72437acdcfbe842521989ac4fb6c71f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_adea929846726f111cbc2d0f953d77c8ea22add3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_5fd10d8ab39b3e771ba444dc266ec5adb09c3d23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_83e6578a72b3b6424a24c198fbbae04fb49e3bf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_76a1a08363fbfc9639febc9aa86d9f959dcaf44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_b9bc6d00fd2e1094ddd4141a27da55a41bcfe609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d380921a734c8dcc63feb7d67f1a71535d7d94d">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f51dcd0233e8da4640f78df508ae2493ef9d229a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_0b83100183b3ba05d1fc9d86b6dcfcc763186e96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_c04f4478985e6f847d51e7b3a1c19aaaabe4eab0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_b33353b12a330adf000469cb2af59abcfb233876/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_57aa597c0f5da6525556f337a9790a5c97c35f5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/caotianjin/xingyan/githubWorkSpace/DateSelect/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_88a8cd6ffa9cd0f599bd3404a52cdea6a4d38759/classes.dex" />
+    </item>
+
+</items>

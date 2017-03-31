@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="335dp"
+    android:layout_height="200dp">
+
+    <LinearLayout
+        android:id="@+id/timePicker1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:gravity="center"
+        android:layout_marginRight="12dp">
+
+        <com.aviptcare.dateselect.view.DataChooseView
+            android:id="@+id/year"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5" />
+
+        <com.aviptcare.dateselect.view.DataChooseView
+            android:id="@+id/month"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <com.aviptcare.dateselect.view.DataChooseView
+            android:id="@+id/day"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <com.aviptcare.dateselect.view.DataChooseView
+            android:id="@+id/hour"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <com.aviptcare.dateselect.view.DataChooseView
+            android:id="@+id/mins"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+   <View
+       android:id="@+id/data_line"
+       android:layout_below="@id/timePicker1"
+       android:layout_width="match_parent"
+       android:layout_height="0.1dp"
+       android:background="#e2e2e2"/>
+
+    <TextView
+        android:id="@+id/data_ok"
+        android:gravity="center"
+        android:background="@drawable/white_gray_bg_selector"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/data_line"
+        android:textSize="16sp"
+        android:textColor="#080808"
+        android:text="确定"/>
+
+</RelativeLayout>
